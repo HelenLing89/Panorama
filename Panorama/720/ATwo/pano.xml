@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="15998" appversion="5.2.5" start="node4">
+  <panorama id="node4">
+    <input prev0url="images/A一二楼-卧室1_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/A一二楼-卧室1_o_1.jpg" tile3url="images/A一二楼-卧室1_o_3.jpg" tile2url="images/A一二楼-卧室1_o_2.jpg" prev2url="images/A一二楼-卧室1_o_preview_2.jpg" prev4url="images/A一二楼-卧室1_o_preview_4.jpg" tile5url="images/A一二楼-卧室1_o_5.jpg" tile4url="images/A一二楼-卧室1_o_4.jpg" prev5url="images/A一二楼-卧室1_o_preview_5.jpg" prev1url="images/A一二楼-卧室1_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/A一二楼-卧室1_o_preview_3.jpg" tile0url="images/A一二楼-卧室1_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2019/12/31 3:14" comment="" author="" copyright="" tags="a-2" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-19.91" description="" url="{node3}" target="-15.1/-21.3/54.0" pan="-21.74" id="Point01" title="二楼阳台2" skinid="Hotspot 1"/>
+      <hotspot tilt="-16.4" description="" url="{node1}" target="1.6/1.2/70.0" pan="-175.37" id="Point02" title="二楼走廊" skinid="Hotspot 1"/>
+      <hotspot tilt="-23.07" description="" url="{node5}" target="-21.9/-5.9/58.7" pan="-148.39" id="Point03" title="二楼卧室1卫生间" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input prev0url="images/A二楼_走廊_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/A二楼_走廊_o_1.jpg" tile3url="images/A二楼_走廊_o_3.jpg" tile2url="images/A二楼_走廊_o_2.jpg" prev2url="images/A二楼_走廊_o_preview_2.jpg" prev4url="images/A二楼_走廊_o_preview_4.jpg" tile5url="images/A二楼_走廊_o_5.jpg" tile4url="images/A二楼_走廊_o_4.jpg" prev5url="images/A二楼_走廊_o_preview_5.jpg" prev1url="images/A二楼_走廊_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/A二楼_走廊_o_preview_3.jpg" tile0url="images/A二楼_走廊_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2020/1/1 14:12" comment="" author="" copyright="" tags="a-2" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-6.49" description="" url="{node2}" target="40.9/-14.7/59.1" pan="-0.53" id="Point01" title="二楼阳台1" skinid="Hotspot 1"/>
+      <hotspot tilt="-13.31" description="" url="{node4}" target="25.7/0.5/70.0" pan="-0.54" id="Point02" title="二楼卧室1" skinid="Hotspot 1"/>
+      <hotspot tilt="-12.15" description="" url="{node6}" target="36.3/-2.0/70.0" pan="176.25" id="Point03" title="二楼卧室2" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input prev0url="images/A二楼阳台1_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/A二楼阳台1_o_1.jpg" tile3url="images/A二楼阳台1_o_3.jpg" tile2url="images/A二楼阳台1_o_2.jpg" prev2url="images/A二楼阳台1_o_preview_2.jpg" prev4url="images/A二楼阳台1_o_preview_4.jpg" tile5url="images/A二楼阳台1_o_5.jpg" tile4url="images/A二楼阳台1_o_4.jpg" prev5url="images/A二楼阳台1_o_preview_5.jpg" prev1url="images/A二楼阳台1_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/A二楼阳台1_o_preview_3.jpg" tile0url="images/A二楼阳台1_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="" comment="" author="" copyright="" tags="a-2" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-20.2" description="" url="{node1}" target="-179.8/-0.9/70.0" pan="174.33" id="Point01" title="二楼走廊" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input prev0url="images/A二楼阳台2_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/A二楼阳台2_o_1.jpg" tile3url="images/A二楼阳台2_o_3.jpg" tile2url="images/A二楼阳台2_o_2.jpg" prev2url="images/A二楼阳台2_o_preview_2.jpg" prev4url="images/A二楼阳台2_o_preview_4.jpg" tile5url="images/A二楼阳台2_o_5.jpg" tile4url="images/A二楼阳台2_o_4.jpg" prev5url="images/A二楼阳台2_o_preview_5.jpg" prev1url="images/A二楼阳台2_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/A二楼阳台2_o_preview_3.jpg" tile0url="images/A二楼阳台2_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="" comment="" author="" copyright="" tags="a-2" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-25.2" description="" url="{node4}" target="-161.9/-1.3/70.0" pan="175.67" id="Point01" title="二楼卧室1" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input prev0url="images/A一二楼-卧室1卫生间_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/A一二楼-卧室1卫生间_o_1.jpg" tile3url="images/A一二楼-卧室1卫生间_o_3.jpg" tile2url="images/A一二楼-卧室1卫生间_o_2.jpg" prev2url="images/A一二楼-卧室1卫生间_o_preview_2.jpg" prev4url="images/A一二楼-卧室1卫生间_o_preview_4.jpg" tile5url="images/A一二楼-卧室1卫生间_o_5.jpg" tile4url="images/A一二楼-卧室1卫生间_o_4.jpg" prev5url="images/A一二楼-卧室1卫生间_o_preview_5.jpg" prev1url="images/A一二楼-卧室1卫生间_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/A一二楼-卧室1卫生间_o_preview_3.jpg" tile0url="images/A一二楼-卧室1卫生间_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2019/12/31 3:57" comment="" author="" copyright="" tags="a-2" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-32.76" description="" url="{node4}" target="40.0/-6.6/70.0" pan="89.24" id="Point01" title="二楼卧室1" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input prev0url="images/A一二楼-卧室2_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/A一二楼-卧室2_o_1.jpg" tile3url="images/A一二楼-卧室2_o_3.jpg" tile2url="images/A一二楼-卧室2_o_2.jpg" prev2url="images/A一二楼-卧室2_o_preview_2.jpg" prev4url="images/A一二楼-卧室2_o_preview_4.jpg" tile5url="images/A一二楼-卧室2_o_5.jpg" tile4url="images/A一二楼-卧室2_o_4.jpg" prev5url="images/A一二楼-卧室2_o_preview_5.jpg" prev1url="images/A一二楼-卧室2_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/A一二楼-卧室2_o_preview_3.jpg" tile0url="images/A一二楼-卧室2_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2019/12/31 3:44" comment="" author="" copyright="" tags="a-2" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-16.22" description="" url="{node1}" target="0.0/0.0/70.0" pan="-179.29" id="Point01" title="二楼走廊" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+</tour>

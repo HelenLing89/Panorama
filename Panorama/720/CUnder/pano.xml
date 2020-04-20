@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="15998" appversion="5.2.5" start="node4">
+  <panorama id="node4">
+    <input prev0url="images/C-负一楼地下室入口_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/C-负一楼地下室入口_o_1.jpg" tile3url="images/C-负一楼地下室入口_o_3.jpg" tile2url="images/C-负一楼地下室入口_o_2.jpg" prev2url="images/C-负一楼地下室入口_o_preview_2.jpg" prev4url="images/C-负一楼地下室入口_o_preview_4.jpg" tile5url="images/C-负一楼地下室入口_o_5.jpg" tile4url="images/C-负一楼地下室入口_o_4.jpg" prev5url="images/C-负一楼地下室入口_o_preview_5.jpg" prev1url="images/C-负一楼地下室入口_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/C-负一楼地下室入口_o_preview_3.jpg" tile0url="images/C-负一楼地下室入口_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2019/12/30 23:50" comment="" author="" copyright="" tags="c--1" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-17.1" description="" url="{node6}" target="" pan="-55.46" id="Point01" title="负一楼走廊" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input prev0url="images/C-负一楼地下室画廊1_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/C-负一楼地下室画廊1_o_1.jpg" tile3url="images/C-负一楼地下室画廊1_o_3.jpg" tile2url="images/C-负一楼地下室画廊1_o_2.jpg" prev2url="images/C-负一楼地下室画廊1_o_preview_2.jpg" prev4url="images/C-负一楼地下室画廊1_o_preview_4.jpg" tile5url="images/C-负一楼地下室画廊1_o_5.jpg" tile4url="images/C-负一楼地下室画廊1_o_4.jpg" prev5url="images/C-负一楼地下室画廊1_o_preview_5.jpg" prev1url="images/C-负一楼地下室画廊1_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/C-负一楼地下室画廊1_o_preview_3.jpg" tile0url="images/C-负一楼地下室画廊1_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2019/12/31 0:32" comment="" author="" copyright="" tags="c--1" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-13.8" description="" url="{node2}" target="" pan="81.18" id="Point01" title="负一楼画廊2" skinid="Hotspot 1"/>
+      <hotspot tilt="-12.12" description="" url="{node4}" target="" pan="60.48" id="Point02" title="负一楼入口" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input prev0url="images/C-负一楼地下室画廊2_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/C-负一楼地下室画廊2_o_1.jpg" tile3url="images/C-负一楼地下室画廊2_o_3.jpg" tile2url="images/C-负一楼地下室画廊2_o_2.jpg" prev2url="images/C-负一楼地下室画廊2_o_preview_2.jpg" prev4url="images/C-负一楼地下室画廊2_o_preview_4.jpg" tile5url="images/C-负一楼地下室画廊2_o_5.jpg" tile4url="images/C-负一楼地下室画廊2_o_4.jpg" prev5url="images/C-负一楼地下室画廊2_o_preview_5.jpg" prev1url="images/C-负一楼地下室画廊2_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/C-负一楼地下室画廊2_o_preview_3.jpg" tile0url="images/C-负一楼地下室画廊2_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2019/12/31 0:36" comment="" author="" copyright="" tags="c--1" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-16.84" description="" url="{node1}" target="" pan="-85.33" id="Point01" title="负一楼画廊1" skinid="Hotspot 1"/>
+      <hotspot tilt="-19.14" description="" url="{node5}" target="" pan="-153.73" id="Point02" title="负一楼影音室" skinid="Hotspot 1"/>
+      <hotspot tilt="-21.35" description="" url="{node3}" target="" pan="-166" id="Point03" title="负一楼会客厅" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input prev0url="images/C-负一楼地下室会客厅_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/C-负一楼地下室会客厅_o_1.jpg" tile3url="images/C-负一楼地下室会客厅_o_3.jpg" tile2url="images/C-负一楼地下室会客厅_o_2.jpg" prev2url="images/C-负一楼地下室会客厅_o_preview_2.jpg" prev4url="images/C-负一楼地下室会客厅_o_preview_4.jpg" tile5url="images/C-负一楼地下室会客厅_o_5.jpg" tile4url="images/C-负一楼地下室会客厅_o_4.jpg" prev5url="images/C-负一楼地下室会客厅_o_preview_5.jpg" prev1url="images/C-负一楼地下室会客厅_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/C-负一楼地下室会客厅_o_preview_3.jpg" tile0url="images/C-负一楼地下室会客厅_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2019/12/30 23:41" comment="" author="" copyright="" tags="c--1" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-33.78" description="" url="{node1}" target="" pan="179.76" id="Point01" title="负一楼画廊1" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input prev0url="images/C-负一楼影音室_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/C-负一楼影音室_o_1.jpg" tile3url="images/C-负一楼影音室_o_3.jpg" tile2url="images/C-负一楼影音室_o_2.jpg" prev2url="images/C-负一楼影音室_o_preview_2.jpg" prev4url="images/C-负一楼影音室_o_preview_4.jpg" tile5url="images/C-负一楼影音室_o_5.jpg" tile4url="images/C-负一楼影音室_o_4.jpg" prev5url="images/C-负一楼影音室_o_preview_5.jpg" prev1url="images/C-负一楼影音室_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/C-负一楼影音室_o_preview_3.jpg" tile0url="images/C-负一楼影音室_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2019/12/30 23:37" comment="" author="" copyright="" tags="c--1" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-22.59" description="" url="{node1}" target="" pan="34.41" id="Point01" title="负一楼画廊1" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input prev0url="images/C-负一楼走廊_o_preview_0.jpg" tilescale="1.004560" levelingroll="0" tile1url="images/C-负一楼走廊_o_1.jpg" tile3url="images/C-负一楼走廊_o_3.jpg" tile2url="images/C-负一楼走廊_o_2.jpg" prev2url="images/C-负一楼走廊_o_preview_2.jpg" prev4url="images/C-负一楼走廊_o_preview_4.jpg" tile5url="images/C-负一楼走廊_o_5.jpg" tile4url="images/C-负一楼走廊_o_4.jpg" prev5url="images/C-负一楼走廊_o_preview_5.jpg" prev1url="images/C-负一楼走廊_o_preview_1.jpg" tilesize="2193" levelingpitch="0" prev3url="images/C-负一楼走廊_o_preview_3.jpg" tile0url="images/C-负一楼走廊_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" pan="360" fovstereographic="270" scaletofit="1" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata description="" source="" customnodeid="" info="" datetime="2020/1/1 13:35" comment="" author="" copyright="" tags="c--1" longitude="" title="" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" width="180" border="1" enabled="1" height="20" background="1" backgroundcolor="0xffffff" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-19.78" description="" url="{node4}" target="" pan="10.77" id="Point01" title="负一楼入口" skinid="Hotspot 1"/>
+      <hotspot tilt="-29.95" description="" url="{node2}" target="" pan="-61.95" id="Point02" title="负一楼画廊2" skinid="Hotspot 1"/>
+      <hotspot tilt="-10.43" description="" url="{node3}" target="" pan="-173.43" id="Point03" title="负一楼会客厅" skinid="Hotspot 1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomin="0" zoomfov="20" enabled="0" type="crossdissolve" blendcolor="0x000000" zoomoutpause="1" zoomout="0" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertwheel="0" dblclickfullscreen="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" sensitivity="8" speedwheel="1" contextfullscreen="0"/>
+  </panorama>
+</tour>

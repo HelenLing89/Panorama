@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.5" apprev="15998" start="node2">
+  <panorama id="node2">
+    <input tile5url="images/A一层会客厅1_o_5.jpg" levelingroll="0" tile3url="images/A一层会客厅1_o_3.jpg" prev3url="images/A一层会客厅1_o_preview_3.jpg" prev5url="images/A一层会客厅1_o_preview_5.jpg" tilesize="2193" prev1url="images/A一层会客厅1_o_preview_1.jpg" tilescale="1.004560" levelingpitch="0" tile2url="images/A一层会客厅1_o_2.jpg" prev2url="images/A一层会客厅1_o_preview_2.jpg" tile0url="images/A一层会客厅1_o_0.jpg" tile1url="images/A一层会客厅1_o_1.jpg" prev0url="images/A一层会客厅1_o_preview_0.jpg" tile4url="images/A一层会客厅1_o_4.jpg" prev4url="images/A一层会客厅1_o_preview_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="120" tilt="90" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata copyright="" title="" comment="" tags="a-1" customnodeid="" author="" info="" latitude="" datetime="2019/12/31 1:33" source="" description="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" borderalpha="1" backgroundalpha="1" enabled="1" width="180" border="1" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="Hotspot 1" title="一层阳台" target="-2.9/-7.4/70.0" id="Point01" tilt="-16.69" url="{node5}" pan="3.09" description=""/>
+      <hotspot skinid="Hotspot 1" title="一层会客厅2" target="131.1/-11.1/70.0" id="Point02" tilt="-7.86" url="{node3}" pan="-41.41" description=""/>
+      <hotspot skinid="Hotspot 1" title="一层餐厅" target="1.0/-14.5/70.0" id="Point03" tilt="-12.06" url="{node1}" pan="-159.74" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" softedge="0" zoomoutpause="1" zoomin="0" enabled="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomfov="20" blendtime="1"/>
+    <control sensitivity="8" invertcontrol="1" lockedmouse="0" invertwheel="0" contextfullscreen="0" contextprojections="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" simulatemass="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input tile5url="images/A一层餐厅_o_5.jpg" levelingroll="0" tile3url="images/A一层餐厅_o_3.jpg" prev3url="images/A一层餐厅_o_preview_3.jpg" prev5url="images/A一层餐厅_o_preview_5.jpg" tilesize="2193" prev1url="images/A一层餐厅_o_preview_1.jpg" tilescale="1.004560" levelingpitch="0" tile2url="images/A一层餐厅_o_2.jpg" prev2url="images/A一层餐厅_o_preview_2.jpg" tile0url="images/A一层餐厅_o_0.jpg" tile1url="images/A一层餐厅_o_1.jpg" prev0url="images/A一层餐厅_o_preview_0.jpg" tile4url="images/A一层餐厅_o_4.jpg" prev4url="images/A一层餐厅_o_preview_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="120" tilt="90" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata copyright="" title="" comment="" tags="a" customnodeid="" author="" info="" latitude="" datetime="2020/1/1 上午2:04" source="" description="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" borderalpha="1" backgroundalpha="1" enabled="1" width="180" border="1" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="Hotspot 1" title="一层会客厅1" target="13.6/-10.9/70.0" id="Point01" tilt="-6.67" url="{node2}" pan="28.07" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" softedge="0" zoomoutpause="1" zoomin="0" enabled="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomfov="20" blendtime="1"/>
+    <control sensitivity="8" invertcontrol="1" lockedmouse="0" invertwheel="0" contextfullscreen="0" contextprojections="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" simulatemass="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input tile5url="images/A一层会客厅2_o_5.jpg" levelingroll="0" tile3url="images/A一层会客厅2_o_3.jpg" prev3url="images/A一层会客厅2_o_preview_3.jpg" prev5url="images/A一层会客厅2_o_preview_5.jpg" tilesize="2193" prev1url="images/A一层会客厅2_o_preview_1.jpg" tilescale="1.004560" levelingpitch="0" tile2url="images/A一层会客厅2_o_2.jpg" prev2url="images/A一层会客厅2_o_preview_2.jpg" tile0url="images/A一层会客厅2_o_0.jpg" tile1url="images/A一层会客厅2_o_1.jpg" prev0url="images/A一层会客厅2_o_preview_0.jpg" tile4url="images/A一层会客厅2_o_4.jpg" prev4url="images/A一层会客厅2_o_preview_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="120" tilt="90" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata copyright="" title="" comment="" tags="a-1" customnodeid="" author="" info="" latitude="" datetime="2019/12/31 1:54" source="" description="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" borderalpha="1" backgroundalpha="1" enabled="1" width="180" border="1" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="Hotspot 1" title="一层会客厅1" target="140.8/-10.8/70.0" id="Point01" tilt="-11.92" url="{node2}" pan="-20.5" description=""/>
+      <hotspot skinid="Hotspot 1" title="一层卧室" target="-111.2/-11.5/70.0" id="Point02" tilt="-16.56" url="{node4}" pan="-95.16" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" softedge="0" zoomoutpause="1" zoomin="0" enabled="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomfov="20" blendtime="1"/>
+    <control sensitivity="8" invertcontrol="1" lockedmouse="0" invertwheel="0" contextfullscreen="0" contextprojections="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" simulatemass="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input tile5url="images/A一层卧室_o_5.jpg" levelingroll="0" tile3url="images/A一层卧室_o_3.jpg" prev3url="images/A一层卧室_o_preview_3.jpg" prev5url="images/A一层卧室_o_preview_5.jpg" tilesize="2193" prev1url="images/A一层卧室_o_preview_1.jpg" tilescale="1.004560" levelingpitch="0" tile2url="images/A一层卧室_o_2.jpg" prev2url="images/A一层卧室_o_preview_2.jpg" tile0url="images/A一层卧室_o_0.jpg" tile1url="images/A一层卧室_o_1.jpg" prev0url="images/A一层卧室_o_preview_0.jpg" tile4url="images/A一层卧室_o_4.jpg" prev4url="images/A一层卧室_o_preview_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="120" tilt="90" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata copyright="" title="" comment="" tags="a-1" customnodeid="" author="" info="" latitude="" datetime="2019/12/31 1:52" source="" description="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" borderalpha="1" backgroundalpha="1" enabled="1" width="180" border="1" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="Hotspot 1" title="一层会客厅1" target="4.5/-17.7/70.0" id="Point01" tilt="-12.66" url="{node2}" pan="-32.48" description=""/>
+      <hotspot skinid="Hotspot 1" title="一层阳台" target="139.5/-12.8/70.0" id="Point02" tilt="-17.36" url="{node5}" pan="-54.56" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" softedge="0" zoomoutpause="1" zoomin="0" enabled="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomfov="20" blendtime="1"/>
+    <control sensitivity="8" invertcontrol="1" lockedmouse="0" invertwheel="0" contextfullscreen="0" contextprojections="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" simulatemass="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input tile5url="images/A一层阳台_o_5.jpg" levelingroll="0" tile3url="images/A一层阳台_o_3.jpg" prev3url="images/A一层阳台_o_preview_3.jpg" prev5url="images/A一层阳台_o_preview_5.jpg" tilesize="2193" prev1url="images/A一层阳台_o_preview_1.jpg" tilescale="1.004560" levelingpitch="0" tile2url="images/A一层阳台_o_2.jpg" prev2url="images/A一层阳台_o_preview_2.jpg" tile0url="images/A一层阳台_o_0.jpg" tile1url="images/A一层阳台_o_1.jpg" prev0url="images/A一层阳台_o_preview_0.jpg" tile4url="images/A一层阳台_o_4.jpg" prev4url="images/A一层阳台_o_preview_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="5" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="120" tilt="90" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata copyright="" title="" comment="" tags="a-1" customnodeid="" author="" info="" latitude="" datetime="" source="" description="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" borderalpha="1" backgroundalpha="1" enabled="1" width="180" border="1" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="Hotspot 1" title="一层卧室" target="59.5/-4.7/70.0" id="Point01" tilt="-14.91" url="{node4}" pan="-55.3" description=""/>
+      <hotspot skinid="Hotspot 1" title="一层会客厅1" target="176.0/-10.8/70.0" id="Point02" tilt="-24.08" url="{node2}" pan="179.18" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" softedge="0" zoomoutpause="1" zoomin="0" enabled="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomfov="20" blendtime="1"/>
+    <control sensitivity="8" invertcontrol="1" lockedmouse="0" invertwheel="0" contextfullscreen="0" contextprojections="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboard="0" simulatemass="1" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0"/>
+  </panorama>
+</tour>
